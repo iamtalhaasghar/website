@@ -6,7 +6,10 @@
 4. Open a Pull Request.
 5. Await feedback from the judges.
 
-**Note:** Only one submission per team is allowed. You can also participate individually.  
+**Note:** 
+1. Only one submission per team is allowed. You can also participate individually.
+2. You can use Generative AI.
+3. You can also use existing open source solutions and base your work on top of it. But kindly respect the license terms.
 
 **Bonus Marks:**  
 - 5 marks for team participation if all members are university buddies.  
