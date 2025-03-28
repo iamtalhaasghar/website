@@ -8,13 +8,15 @@
 
 **Notes:** 
 1. Only one submission per team is allowed. You can also participate individually.
-2. You can use Generative AI.
-3. You can also use existing open source solutions and base your work on top of it. But kindly respect the license terms.
-4. The website must have following pages:
+2. The site must be hostable on github pages.
+3. You can use Generative AI.
+4. You can also use existing open source solutions and base your work on top of it. But kindly respect the license terms.
+5. The website must have following pages:
    1. Main / homepage
    2. About Us
    3. Contact Us
    4. Blog
+
 
 **Bonus Marks:**  
 - 5 marks for team participation if all members are university buddies.  
