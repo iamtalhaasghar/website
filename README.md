@@ -15,7 +15,9 @@
    1. Main / homepage
    2. About Us
    3. Contact Us
-   4. Blog
+   4. Daily Programming Challenge
+   5. Blog
+
 
 
 **Bonus Marks:**  
