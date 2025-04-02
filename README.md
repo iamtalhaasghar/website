@@ -15,9 +15,8 @@
    1. Main / homepage
    2. About Us
    3. Contact Us
-   4. Daily Programming Challenge
-   5. Blog
-
+   4. Blog
+6. And a dedicated section for Daily programming challenge somewhere on the site.
 
 
 **Bonus Marks:**  
