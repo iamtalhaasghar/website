@@ -1,3 +1,5 @@
+Join our virtual hackathon and build an amazing website for csconnect.pk! The best site will be hosted on this domain and the winning team will be recognized. Don’t miss this chance to showcase your skills and creativity!
+
 ## Steps to Participate in CS Connect Hackathon
 
 1. Fork this repository.
